@@ -1,5 +1,11 @@
 # GraphQL Yoga Typescript Help
 
+## Update
+
+[This question is answered](https://github.com/dotansimha/graphql-yoga/discussions/2818#discussioncomment-6040193)! I've applied a commit with the necessary changes, and I'm archiving rather than deleting this repo for posterity's sake.
+
+## Original Question
+
 Hi, I'm new to Typescript, and to GraphQL Yoga. I'm trying to use strict settings for my compiler and linter, and am struggling.
 
 I've created this repo to share this problem. Included in this repo are the strict compiler and linter settings. And the code that reproduces the problem is a copy-paste of [the issues template in the GraphQL Yoga repo](https://github.com/dotansimha/graphql-yoga/blob/c38c6673e0987693a0a1ef4f5f85aed4e71acbac/examples/issue-template/src/main.ts).
